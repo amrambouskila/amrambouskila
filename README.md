@@ -1,23 +1,5 @@
 # Machine Learning Engineer
 
-<div> 
-   <h1> 📫 Connect with me </h1>
-   <a href="https://www.linkedin.com/in/amrambouskila">
-    <img align="left" alt="Amram Bouskila | Linkedin" width="24px" src="https://github.com/amrambouskila/amrambouskila/blob/main/Linkedin.svg" />
-  </a>
-   <a href="amrambouskila@gmail.com">
-    <img align="left" alt="Amram Bouskila | Gmail" width="24px" src="https://github.com/amrambouskila/amrambouskila/blob/main/gmail.svg" />
-  </a>
-   <br></br>
-</div>
-
-
-## 📊 My Github Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrambouskila" width="820" height="220"/>
-
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=amrambouskila&theme=algolia&show_icons=true" width = "820" height ="220"/>
-
 ## Skill Set
 
 ![](https://img.shields.io/badge/Python-Python3-informational?&style=flat&logo=python&logoColor=white&color=00cccc)
@@ -47,4 +29,24 @@
 ![](https://img.shields.io/badge/AWS-S3-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/AWS-Lambda-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/AWS-CloudFront-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
+
+## Connect with me
+
+<div> 
+   <a href="https://www.linkedin.com/in/amrambouskila">
+    <img align="left" alt="Amram Bouskila | Linkedin" width="24px" src="https://github.com/amrambouskila/amrambouskila/blob/main/Linkedin.svg" />
+  </a>
+   <a href="amrambouskila@gmail.com">
+    <img align="left" alt="Amram Bouskila | Gmail" width="24px" src="https://github.com/amrambouskila/amrambouskila/blob/main/gmail.svg" />
+  </a>
+   <br></br>
+</div>
+
+
+## My Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrambouskila" width="820" height="220"/>
+
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=amrambouskila&theme=algolia&show_icons=true" width = "820" height ="220"/>
+
 
