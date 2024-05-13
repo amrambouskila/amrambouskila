@@ -1,9 +1,12 @@
 🔭 **Machine Learning Engineer**
 
 <div> 
-   <h1> Connect with me on LinkedIn. </h1>
+   <h1> 📫 Connect with me </h1>
    <a href="https://www.linkedin.com/in/amrambouskila">
     <img align="left" alt="Amram Bouskila | Linkedin" width="24px" src="https://github.com/amrambouskila/amrambouskila/blob/main/Linkedin.svg" />
+  </a>
+   <a href="amrambouskila@gmail.com">
+    <img align="left" alt="Amram Bouskila | Gmail" width="24px" src="https://github.com/amrambouskila/amrambouskila/blob/main/gmail.svg" />
   </a>
    <br></br>
 </div>
