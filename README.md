@@ -11,6 +11,8 @@
 
 ## 📊 My Github Stats
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrambouskila&count_private=true&show_icons=true&theme=radical" width="820" height="220"/>
+
 ![Amram's github stats](https://github-readme-stats.vercel.app/api?username=amrambouskila&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrambouskila)](https://github.com/amrambouskila/github-readme-stats)
