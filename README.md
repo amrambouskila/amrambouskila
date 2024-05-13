@@ -2,11 +2,11 @@
 
 - 🔭 **Machine Learning Engineer, working with Large Language Models | Kaggle Master**
 
-- 📫 Connect with me on LinkedIn.
-   
-   <a href="https://www.linkedin.com/in/amrambouskila"> 📫 Connect with me on LinkedIn.
+<div> Connect with me on LinkedIn.
+   <a href="https://www.linkedin.com/in/amrambouskila">
     <img align="left" alt="Amram Bouskila | Linkedin" width="24px" src="https://github.com/amrambouskila/amrambouskila/blob/main/Linkedin.svg" />
   </a>
+</div>
   <br>
   </br>
 
