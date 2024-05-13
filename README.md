@@ -2,13 +2,10 @@
 
 - 🔭 **Machine Learning Engineer, working with Large Language Models | Kaggle Master**
 
- 
- 
-
 - 📫 Connect with me on LinkedIn.
    
    <a href="https://www.linkedin.com/in/amrambouskila">
-    <img align="left" alt="Amram Bouskila | Linkedin" width="24px" src="https://github.com/amrambouskila/amrambouskila/blob/master/assets/Linkedin.svg" />
+    <img align="left" alt="Amram Bouskila | Linkedin" width="24px" src="https://github.com/amrambouskila/amrambouskila/Linkedin.svg" />
   </a>
 
 ![Amram's github stats](https://github-readme-stats.vercel.app/api?username=amrambouskila&count_private=true&show_icons=true&theme=radical)
