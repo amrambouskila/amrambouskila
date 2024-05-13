@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- 🔭 **Machine Learning Engineer, working with Large Language Models | Kaggle Master**
+🔭 **Machine Learning Engineer**
 
 <div> 
    <h1> Connect with me on LinkedIn. </h1>
