@@ -4,7 +4,7 @@
 
 - 📫 Connect with me on LinkedIn.
    
-   <a href="https://www.linkedin.com/in/amrambouskila">
+   <a href="https://www.linkedin.com/in/amrambouskila"> 📫 Connect with me on LinkedIn.
     <img align="left" alt="Amram Bouskila | Linkedin" width="24px" src="https://github.com/amrambouskila/amrambouskila/blob/main/Linkedin.svg" />
   </a>
   <br>
