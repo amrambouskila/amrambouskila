@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**amrambouskila/amrambouskila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Machine Learning Engineer, working with Large Language Models | Kaggle Master**
 
-Here are some ideas to get you started:
+ 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Connect with me on LinkedIn.
+   
+   <a href="https://www.linkedin.com/in/amrambouskila">
+    <img align="left" alt="Amram Bouskila | Linkedin" width="24px" src="https://github.com/amrambouskila/amrambouskila/blob/master/assets/Linkedin.svg" />
+  </a>
+
+![Amram's github stats](https://github-readme-stats.vercel.app/api?username=amrambouskila&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrambouskila)](https://github.com/amrambouskila/github-readme-stats)
