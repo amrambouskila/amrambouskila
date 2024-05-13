@@ -1,4 +1,4 @@
-🔭 **Machine Learning Engineer**
+# Machine Learning Engineer
 
 <div> 
    <h1> 📫 Connect with me </h1>
