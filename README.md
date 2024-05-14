@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Python-PyTorch-informational?style=flat&logo=python&logoColor=white&color=00cccc)
 
 ![](https://img.shields.io/badge/Data-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/DataViz-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/Apps-Flask-informational?style=flat&logo=flask&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/Apps-Docker-informational?style=flat&logo=docker&logoColor=white&color=00cccc)
