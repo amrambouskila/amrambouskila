@@ -7,7 +7,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 ## Competitions: 🥇
 
-### Algorithms [LeetCode]([https://leetcode.com/amrambouskila/](https://leetcode.com/u/bouski95/)
+### Algorithms [LeetCode]([https://leetcode.com/amrambouskila/](https://leetcode.com/u/bouski95/])
 
 
 ### Working on: 🚀
