@@ -23,30 +23,29 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> |
 
-
 ### Python
 | Pytorch | Tensorflow | Keras | Sklearn | StatsModels | Scipy | Selenium | BeautifulSoup | Pandas | Polars | Numpy | Matplotlib | Seaborn | Plotly | Qt | Tkinter | OpenCV | Multiprocessing |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/tools/docs/jupyter/images/tf2_keras_logo.png" title="Keras" alt="Keras" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="Sklearn" width="55" height="55"/> | N/A | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/SciPy_logo.svg" title="Scipy" alt="Scipy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/> | N/A | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | N/A | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | N/A | N/A | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Qt_logo_2016.svg" title="Qt" alt="Qt" width="55" height="55"/> | N/A | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/> | N/A |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/tools/docs/jupyter/images/tf2_keras_logo.png" title="Keras" alt="Keras" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="Sklearn" width="55" height="55"/> | N/A | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/SciPy_logo.svg" title="Scipy" alt="Scipy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/> | N/A | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | N/A | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | N/A | N/A | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Qt_logo_2016.svg" title="Qt" alt="Qt" width="55" height="55"/> | N/A | <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/> | N/A |
 
 ### R
 | dplyr | shiny | (other R libraries) |
-|----------|----------|----------|
+| --- | --- | --- |
 | N/A | N/A | N/A |
 
 ### Rust
 | Arrow |
-|----------|
+| --- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Apache_Arrow_logo.svg" title="Arrow" alt="Arrow" width="55" height="55"/> |
 
 ### C++
 | Armadillo |
-|----------|
+| --- |
 | N/A |
 
 ### JavaScript
 | React.js | Express.js | Node.js | Chart.js | JSX | Redux |
-|----------|----------|----------|----------|----------|----------|
+| --- | --- | --- | --- | --- | --- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Chart.js_logo.svg" title="Chart.js" alt="Chart.js" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/JSX_Logo.svg" title="JSX" alt="JSX" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/> |
 
 
