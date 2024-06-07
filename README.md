@@ -31,8 +31,9 @@ Currently, I'm delving into the realms of generative AI neural networks, such as
 
 ### JavaScript
 | React.js | Express.js | Node.js | Redux |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/> |
+
 
 ### Technologies and Tools
 | Latex | SSH | XML | YAML | JSON | VSCode | PyCharm | IntelliJ | WebStorm | CLion | DataGrip | GitLab | Confluence | Jira | Conda | Jupyter | Spark | Git | Docker | Pytest | Postman | VirtualBox |
