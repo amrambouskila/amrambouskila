@@ -13,7 +13,6 @@ Currently, I'm delving into the realms of generative AI neural networks, such as
 
 - Tweaking this README for optimal engagement
 - Turning my Transformer Chatbot into a GAN in order to improve its performance
-- Implementing split functionality in the Blackjack AI model
 - Updating CryptoTradingBot with fourier analysis and building a neural net including markov chain, lstm, and transformer model
 
 ## Languages and Tools 
